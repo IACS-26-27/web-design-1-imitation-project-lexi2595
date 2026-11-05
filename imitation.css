@@ -10,23 +10,50 @@ section.poster {
   height: 520px;
 }
 
-section.cornertext {
+section.corner {
   display: flex;
   justify-content: right;
+  padding-top: 10px;
+  padding-right: 25px;
+}
+
+section.cornertext {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+section.upcycle {
+  text-align: center;
+}
+
+section.better {
+  text-align: center;
 }
 
 p.upcycle {
-  font-size: 15px;
-  padding-right: 20px;
-  padding-top: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: rgb(18, 120, 148);
+  margin-top: 17px;
+  margin-bottom: 12px;
+}
+
+p.upcycle2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: rgb(18, 120, 148);
+  margin-block: 0px;
+}
+
+section.cornernumber {
+  position: absolute;
+  top: 12.5px;
+  right: 25px;
 }
 
 p.number {
-  font-size: 18px;
-  padding-right: 20px;
-}
-
-p.better {
-  font-size: 15px;
-  padding-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: green;
 }
