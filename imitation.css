@@ -1,1 +1,81 @@
 /* CSS for your imitation here */
+main {
+  background-color: white;
+}
+section.poster {
+  background-color: rgb(253, 247, 230);
+  text-align: center;
+  margin-inline: auto;
+  width: 432px;
+  height: 520px;
+}
+
+section.corner {
+  display: flex;
+  justify-content: right;
+  padding-top: 10px;
+  padding-right: 25px;
+}
+
+section.cornertext {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+section.upcycle {
+  text-align: center;
+}
+
+section.better {
+  text-align: center;
+}
+
+p.upcycle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: rgb(18, 120, 148);
+  margin-top: 17px;
+  margin-bottom: 12px;
+}
+
+p.upcycle2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: rgb(18, 120, 148);
+  margin-block: 0px;
+}
+
+section.cornernumber {
+  position: absolute;
+  top: 12.5px;
+  right: 25px;
+}
+
+p.number {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: green;
+}
+
+section.bigtext {
+  padding: 0px;
+  margin: 0px;
+}
+
+p.bigtext1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 60px;
+  color: rgb(109, 176, 73);
+  margin-top: 7px;
+  margin-bottom: 0px;
+  letter-spacing: 1px;
+}
+
+p.bigtext2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  color: rgb(57, 97, 57);
+  margin-top: 5px;
+  letter-spacing: 1px;
+}
