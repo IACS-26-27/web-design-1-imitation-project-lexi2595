@@ -66,16 +66,28 @@ section.bigtext {
 p.bigtext1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 60px;
-  color: rgb(109, 176, 73);
+  color: rgb(134, 189, 105);
   margin-top: 7px;
   margin-bottom: 0px;
   letter-spacing: 1px;
 }
 
-p.bigtext2 {
+text.bigtext2 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 50px;
-  color: rgb(57, 97, 57);
+  fill: rgb(57, 97, 57);
   margin-top: 5px;
+  margin-bottom: 20px;
   letter-spacing: 1px;
+}
+
+text.bigtext3 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 35px;
+  fill: rgb(134, 189, 105);
+  margin-top: 0px;
+  letter-spacing: 1px;
+}
+path {
+  fill: black
 }
