@@ -67,27 +67,27 @@ p.bigtext1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 60px;
   color: rgb(134, 189, 105);
-  margin-top: 7px;
+  margin-top: 20px;
   margin-bottom: 0px;
   letter-spacing: 1px;
 }
 
 text.bigtext2 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 50px;
-  fill: rgb(57, 97, 57);
-  margin-top: 5px;
+  font-size: 59px;
+  fill: rgb(76, 126, 76);
   margin-bottom: 20px;
   letter-spacing: 1px;
 }
 
 text.bigtext3 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 35px;
+  font-size: 46.5px;
   fill: rgb(134, 189, 105);
   margin-top: 0px;
   letter-spacing: 1px;
 }
+
 path {
-  fill: black
+  fill: transparent
 }
