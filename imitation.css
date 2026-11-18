@@ -91,3 +91,14 @@ text.bigtext3 {
 path {
   fill: transparent
 }
+
+section.oldclothes {
+  margin-top: 30px;
+}
+
+p.oldclothes {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 17px;
+  color: rgb(76, 126, 76);
+  letter-spacing: 0.3px;
+}
